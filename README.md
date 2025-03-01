@@ -105,7 +105,7 @@
 </ul>
 
 <h2 id="acceso-proyecto"> Acceso al proyecto</h2>
-<p> El proyecto esta disponible para descargar, modificar y clonar en el siguiente enlace</p>
+<p> El proyecto esta disponible para clonar con el siguiente comando</p>
 <pre><code>git clone https://github.com/FrancoCautivo/Challenge-Amigo-Secreto-2025.git</code></pre>
 
 <h2 id="conclusión"> Conclusión</h2>
