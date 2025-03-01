@@ -1,4 +1,4 @@
-<h1 align="center"> Challenge-Amigo-Secreto-2025 </h1>
+<h1 align="center" id="inicio"> Challenge Amigo Secreto 2025 </h1>
 <h2 align="center"> Proyecto Challenge Amigo Secreto para Alura Latam / Marzo 2025 </h2>
 <p align="center">
   <img src="assets/screenshots/ScrTitle.png" alt="Interfaz de la aplicación" width="400">
@@ -11,7 +11,7 @@
   <li><a href="#funciones">Funciones</a></li>
   <li><a href="#desarrollo">Desarrollo y demostración del proyecto</a></li>
   <li><a href="#acceso-proyecto">Acceso al proyecto</a></li>
-  <li><a href="#conclusión">Conclusión</a></li>
+  <li><a href="#comentarios-finales">Comentarios finales</a></li>
 </ul>
 
 <h2 id="descripción-del-proyecto"> Descripción del proyecto</h2>
@@ -118,9 +118,9 @@
 
 <a href="#índice">Volver al indice</a>
 
-<h2 id="conclusión"> Conclusión</h2>
+<h2 id="comentarios-finales"> Comentarios finales</h2>
 <p> En lo personal la creación de este proyecto fue muy inspiradora, ya que a medida que uno va aprendiendo mas se abren infinitas posibilidades.</p>
 <p> Este codigo que parece inicial se puede complementar con muchas mas funciones, las cuales se pueden ir añadiendo a medida que uno adquiera mas conocimiento.</p>
 <p> Literalmente esto me abre el apetito por absorver aun mas conocimiento del mundo de la programación.</p>
 
-<a href="#índice">Volver al indice</a>
+<a href="#inicio">Volver al inicio del proyecto</a>
