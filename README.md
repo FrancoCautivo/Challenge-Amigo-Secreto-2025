@@ -23,8 +23,12 @@
   <li> Función de reinicio completo</li>
 </ul>
 
+<a href="#índice">Volver al indice</a>
+
 <h2 id="estado-del-proyecto"> Estado del proyecto</h2>
 <p>Este proyecto se encuentra completado y funcional, aunque es posible modificarlo para mejorar su interfaz y agregar aun mas funciones</p>
+
+<a href="#índice">Volver al indice</a>
 
 <h2 id="funciones"> Variables y Funciones</h2>
 <p> Aca las variables y funciones que fueron utilizadas en la estructura del código</p>
@@ -78,6 +82,8 @@
        <p> volviendo a dejarlo como "Sortear Amigo", de la forma que fue explicada mas arriba</p>     
 </ul>
 
+<a href="#índice">Volver al indice</a>
+
 <h2 id="desarrollo"> Desarrollo y demostración del proyecto</h2>
 <ul>
   <li> Iniciando el sorteo</li>
@@ -96,19 +102,25 @@
       <p> Si al ingresar un nombre se detecta que ya ha sido previamente ingresado nos aparecerá la siguiente alerta</p>
       <img src="assets/screenshots/ScrInpt-UI-2.png">
   <li>Mostrando el resultado del sorteo</li>
-      <p> Una vez que ya no ingresamos mas nombres a la lista y presionamos el boton de "Sortear Amigo en una linea bajo el listado de nombres</p>
-      <p> nos muestra en pantalla el nombre elegido como amigo secreto y nos cambia el boton de "Sortear Amigo por "Reiniciar Sorteo"</p>
+      <p> Una vez que ya no ingresamos mas nombres a la lista y presionamos el boton de "Sortear Amigo" en una linea bajo el listado de nombres</p>
+      <p> nos muestra en pantalla el nombre elegido como amigo secreto y nos cambia el boton de "Sortear Amigo" por "Reiniciar Sorteo"</p>
       <img src="assets/screenshots/ScrReslt-UI.png">
   <li>Reiniciando Todo</li>
       <p> Al hacer clic en "Reiniciar Sorteo" toda la interfaz se limpia y reinicia quedando lista para realizar otro sorteo</p>
       <img src="assets/screenshots/ScrInt-UI.png">
 </ul>
 
+<a href="#índice">Volver al indice</a>
+
 <h2 id="acceso-proyecto"> Acceso al proyecto</h2>
 <p> El proyecto esta disponible para clonar con el siguiente comando</p>
 <pre><code>git clone https://github.com/FrancoCautivo/Challenge-Amigo-Secreto-2025.git</code></pre>
 
+<a href="#índice">Volver al indice</a>
+
 <h2 id="conclusión"> Conclusión</h2>
-<p> En lo personal la creación de este proyecto fue muy motivadora, ya que a medida que uno va aprendiendo mas se abren infinitas posibilidades.</p>
+<p> En lo personal la creación de este proyecto fue muy inspiradora, ya que a medida que uno va aprendiendo mas se abren infinitas posibilidades.</p>
 <p> Este codigo que parece inicial se puede complementar con muchas mas funciones, las cuales se pueden ir añadiendo a medida que uno adquiera mas conocimiento.</p>
 <p> Literalmente esto me abre el apetito por absorver aun mas conocimiento del mundo de la programación.</p>
+
+<a href="#índice">Volver al indice</a>
