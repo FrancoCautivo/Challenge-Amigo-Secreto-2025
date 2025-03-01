@@ -55,6 +55,7 @@
        <img src="assets/screenshots/ScrTr2.png">
        <p>Para hacer posible el cambio de apariencia en aquel boton se agregaron un par de variables y funciones en el codigo CSS</p>
        <img src="assets/screenshots/ScrCSSRst1.png">
+       <p></p>
        <img src="assets/screenshots/ScrCSSRst2.png">
   <li> Actualizando y visualizando los nombres ingresados</li>
        <p> Aca hacemos posible que se vayan mostrando en pantalla los nombres que vamos ingresando al sorteo de nuestro Amigo Secreto</p>
